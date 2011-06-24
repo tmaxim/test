@@ -1,6 +1,7 @@
 Hello
 Change 1
-Hello 2
+Hello 2 (Max)
 Unstaged line /*comment*/
-Change 1
+Change 1(Maxim)
 Change 2
+[Maxat]
