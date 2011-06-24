@@ -5,3 +5,5 @@ Unstaged line /*comment*/
 Change 1(Maxim)
 Change 2
 [Maxat]
+
+Added 2 files 2prjct
